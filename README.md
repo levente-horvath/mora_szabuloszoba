@@ -1,2 +1,2 @@
-# mora_szabuloszoba
+# Móra szabadulószoba
 SZTE Móra Ferenc Kollégium szabadulószoba
